@@ -6,7 +6,7 @@ Welcome to view this website! 欢迎! (This means 'welcome' in Chinese.)
 
 My name is Wang Zihan. In Chinese, it is written as 王紫涵. I am an undergraduate student at Zhejiang University and University of Edinburgh Institude, studying Biomedical Science. This is my public github repository. 
 
-### Support or Contact
+## Support or Contact
 
 You can use the [editor on GitHub](https://github.com/ZihanWANG-001/ZihanWANG-001.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
